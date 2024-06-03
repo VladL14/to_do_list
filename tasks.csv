@@ -1,0 +1,51 @@
+id,nume,dificultate,descriere,deadline
+1,Finalizare raport de vânzări,2,Completează și trimite raportul de vânzări pentru trimestrul curent,2024-06-10
+2,Pregătire prezentare,3,Pregătește prezentarea pentru întâlnirea cu investitorii,2024-06-15
+3,Actualizare website,2,Actualizează conținutul și designul site-ului companiei,2024-06-20
+4,Revizuire politici interne,1,Revizuiește și actualizează politicile interne ale companiei,2024-06-25
+5,Planificare campanie de marketing,3,Elaborează strategia și planul pentru noua campanie de marketing,2024-06-30
+6,Audit financiar intern,3,Efectuează auditul financiar intern pentru anul în curs,2024-07-05
+7,Organizare team building,1,Planifică și organizează evenimentul de team building pentru echipă,2024-07-10
+8,Recrutare personal,2,Selectează și intervievează candidații pentru noile poziții deschise,2024-07-15
+9,Evaluare performanțe angajați,2,Evaluare trimestrială a performanțelor angajaților,2024-07-20
+10,Analiză concurență,1,Analizează activitățile și strategiile principalilor concurenți,2024-07-25
+11,Actualizare bază de date clienți,2,Actualizează și verifică informațiile din baza de date a clienților,2024-07-30
+12,Elaborare buget anual,3,Elaborează bugetul anual al companiei,2024-08-05
+13,Gestionare reclamații clienți,1,Gestionează și rezolvă reclamațiile primite de la clienți,2024-08-10
+14,Trimitere newsletter lunar,1,Pregătește și trimite newsletter-ul lunar către abonați,2024-08-15
+15,Organizare workshop,2,Organizează workshop-ul de dezvoltare profesională pentru angajați,2024-08-20
+16,Actualizare sistem IT,3,Actualizează și securizează sistemele IT ale companiei,2024-08-25
+17,Pregătire documente pentru audit extern,3,Pregătește toate documentele necesare pentru auditul extern,2024-08-30
+18,Negociere contracte furnizori,2,Negociază și încheie noi contracte cu furnizorii,2024-09-05
+19,Planificare inventar anual,1,Planifică și organizează inventarul anual al companiei,2024-09-10
+20,Elaborare strategii de vânzări,3,Dezvoltă noi strategii pentru creșterea vânzărilor,2024-09-15
+21,Participare la târguri și expoziții,2,Organizează participarea la târguri și expoziții relevante pentru industrie,2024-09-20
+22,Întreținere echipamente,1,Efectuează întreținerea periodică a echipamentelor de lucru,2024-09-25
+23,Analiză feedback clienți,2,Analizează feedback-ul primit de la clienți și propune îmbunătățiri,2024-09-30
+24,Training pentru noii angajați,1,Organizează sesiuni de training pentru noii angajați,2024-10-05
+25,Elaborare politici de sustenabilitate,3,Dezvoltă și implementează politici de sustenabilitate pentru companie,2024-10-10
+26,Planificare strategie de produs,3,Elaborează strategia pentru lansarea noului produs,2024-10-15
+27,Monitorizare performanță site,2,Monitorizează performanța și uptime-ul site-ului,2024-10-20
+28,Analiză costuri operaționale,2,Analizează și optimizează costurile operaționale ale companiei,2024-10-25
+29,Evaluare contracte actuale,2,Revizuiește și evaluează contractele curente ale companiei,2024-10-30
+30,Planificare relocare birou,3,Planifică mutarea biroului în noua locație,2024-11-05
+31,Organizare eveniment de lansare,3,Organizează evenimentul de lansare pentru noul produs,2024-11-10
+32,Implementare software CRM,3,Implementarea noului software de gestionare a relațiilor cu clienții (CRM),2024-11-15
+33,Gestionare resurse umane,2,Gestionarea documentelor și a problemelor de resurse umane,2024-11-20
+34,Planificare concedii,1,Planifică și gestionează cererile de concediu ale angajaților,2024-11-25
+35,Întreținere clădiri și infrastructură,2,Efectuează întreținerea periodică a clădirilor și infrastructurii,2024-11-30
+36,Dezvoltare parteneriate strategice,3,Dezvoltă și menține parteneriate strategice cu alte companii,2024-12-05
+37,Evaluare program de internship,1,Evaluează performanța și contribuția internilor,2024-12-10
+38,Implementare noi procese operaționale,3,Implementarea noilor procese și proceduri operaționale,2024-12-15
+39,Actualizare politici de securitate,3,Revizuiește și actualizează politicile de securitate ale companiei,2024-12-20
+40,Monitorizare tendințe de piață,1,Monitorizează tendințele și evoluțiile pieței,2024-12-25
+41,Elaborare strategie de social media,2,Dezvoltă strategia de social media pentru următorul an,2024-12-30
+42,Revizuire contracte legale,2,Revizuiește toate contractele legale și asigură conformitatea,2025-01-05
+43,Actualizare manual angajat,1,Actualizează manualul angajatului cu noile politici,2025-01-10
+44,Planificare buget de marketing,3,Elaborează bugetul pentru campaniile de marketing,2025-01-15
+45,Pregătire documentație pentru IPO,3,Pregătește documentația necesară pentru oferta publică inițială (IPO),2025-01-20
+46,Analiză riscuri de afaceri,3,Identifică și evaluează riscurile potențiale pentru afacere,2025-01-25
+47,Implementare strategii de retenție clienți,3,Dezvoltă și implementează strategii pentru retenția clienților,2025-01-30
+48,Actualizare software contabilitate,2,Actualizează software-ul de contabilitate și asigură compatibilitatea cu reglementările fiscale recente,2024-06-15
+49,Organizare eveniment de caritate,1,Planifică și organizează un eveniment de caritate pentru angajați și comunitatea locală,2024-06-20
+50,Implementare sistem de feedback angajați,2,Implementează un sistem de feedback pentru angajați pentru a evalua satisfacția și a identifica posibile îmbunătățiri,2024-06-25
